@@ -1,1 +1,2 @@
-# Statistics
+# Statistics Project
+# Stroop Effect
